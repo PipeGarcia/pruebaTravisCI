@@ -5,3 +5,5 @@ fs.readFile('C:\\Users\\pipe-_000\\Desktop\\carpeta\\nue.txt', 'utf8', function(
     if (err) throw err;
     console.log(data);
 });
+
+//hola
