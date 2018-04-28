@@ -1,0 +1,19 @@
+{
+  "name": "nlp_watson",
+  "version": "1.0.0",
+  "description": "procesamiento de lenguaje natural con ibm watson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pipe",
+  "license": "ISC",
+  "dependencies": {
+    "arxiv": "0.0.4",
+    "axios": "^0.18.0",
+    "pdf2json": "^1.1.7",
+    "pdfreader": "^0.2.4",
+    "watson-developer-cloud": "^3.2.1",
+    "xhr2": "^0.1.4"
+  }
+}
